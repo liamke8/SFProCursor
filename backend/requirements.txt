@@ -32,7 +32,7 @@ html2text==2020.1.16
 
 # Machine learning and embeddings
 sentence-transformers==2.2.2
-torch==2.1.1
+torch==2.2.1
 transformers==4.36.1
 langchain==0.0.350
 langchain-community==0.0.3
@@ -69,4 +69,4 @@ jsonschema==4.20.0
 python-slugify==8.0.1
 faker==20.1.0
 pandas==2.1.4
-numpy==1.25.2
+numpy==1.26.4
